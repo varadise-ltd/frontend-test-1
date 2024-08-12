@@ -22,7 +22,7 @@ cd my-react-app
 - Deployment with Netlify: providing a live demo.
 - Dockerization: Create a Docker image for the application, making it easy to deploy and run in a containerized environment.
 
-## Reference
+## References
 - [Vite](https://vitejs.dev/guide/)
 - [Netlify](https://docs.netlify.com/)
 - [Docker](https://docs.docker.com/)
